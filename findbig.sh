@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#comentario
+#hola
 
 declare -a ficheros
 declare -a fichero_info

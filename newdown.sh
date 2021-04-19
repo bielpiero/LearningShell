@@ -8,6 +8,8 @@
 # No es necesario considerar un error que el parámetro N no sea un número y en ese caso el programa actuara de una
 # forma no especificada.
 
+#hola
+
 declare -a ficheros
 
 #Funcion para ordenar los ficheros por fecha.
